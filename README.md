@@ -22,8 +22,8 @@ Web Developper 💻
 
 * 🌍  I'm based in Paris, France
 * 📫 You can contact me at [mansoursow92@gmail.com](mailto:mansoursow92@gmail.com)
-* 🧠  I’m currently learning Javascript (nodejs, express, API REST, MVC, SQL, PostgreSQL...)
-* 🙂  I also plan to learn ReactJs
+* 🧠  Skills: Javascript (Nodejs, Express, API REST, MVC, SQL(PostgreSQL), NoSQL(Mongo)...)
+* 🙂  I’m currently learning ReactJs
 
 ### Skills
 
